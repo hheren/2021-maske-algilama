@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://github.com/hheren/2021-maske-algilama/blob/main/Demo/demoresim.png">
+  <img width="520" height="300" src="https://github.com/hheren/2021-maske-algilama/blob/main/Demo/demoresim.png">
 </p>
 
 
