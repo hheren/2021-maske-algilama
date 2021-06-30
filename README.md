@@ -15,7 +15,7 @@ Test için kullanılan: **120**
 Veriler Maskeli ve Maskesiz diye etiketlenerek iki gruba ayrılmıştır. 
 Görseller genel olarak kaggle üzerinden alınmıştır. 
 
-Datasetin weight dosyaları boyut sınırları nedeninle [Google Drive](linkgelecek) hesabına yüklenmiştir. 
+Datasetin weight dosyaları boyut sınırları nedeninle [Google Drive](https://drive.google.com/drive/folders/1gmMSbe5Dof4hZvgvcdK8aiKHZf0CjGsV?usp=sharing) hesabına yüklenmiştir. 
 # Kullanılan Kütüphaneler
 + Python
 + Opencv(GPU)
